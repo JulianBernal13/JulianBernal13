@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JulianBernal13
-- 👀 I’m interested in ... web based applications
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ... any projects and attain work experience in the software industry
-- 📫 How to reach me ...
+- 👀 I’m interested in software engineering and development.
+- 🌱 I’m currently learning AWS and cloud based computing.
+- 💞️ I’m looking to collaborate on any projects and attain work experience in the software industry
+- 📫 How to reach me?
 
 You can reach me by emailing me at julianbernal13@gmail.com 
 
